@@ -83,4 +83,4 @@ This project follows TDD principles to solve the kata problem. The solution is b
 
 The current test coverage of this project is **100%**.
 
-![Test Coverage Screenshot](https://postimg.cc/PPp3ffDb) 
+![Test Coverage Screenshot](<a href='https://postimg.cc/PPp3ffDb' target='_blank'><img src='https://i.postimg.cc/PPp3ffDb/Screenshot-47.png' border='0' alt='Screenshot-47'/></a>) 
