@@ -78,3 +78,9 @@ This project follows TDD principles to solve the kata problem. The solution is b
 - **getBookByISBNFromBorrowedBook**:
   - Retrieves details of a borrowed book using its ISBN.
   - Returns `null` if the book is not found.
+
+  ## Test Coverage
+
+The current test coverage of this project is **100%**.
+
+![Test Coverage Screenshot](https://postimg.cc/PPp3ffDb) 
